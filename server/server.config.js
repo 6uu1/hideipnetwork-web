@@ -1,3 +1,5 @@
+const BAREURL = 'https://p.gzhu.ml'
+
 self.__uv$config = {
     prefix: `/aHR0cHM6Ly9naXRodWIuY29tL2hpZGVpcG5ldHdvcms=/`,
     bare: `/bare/`,
